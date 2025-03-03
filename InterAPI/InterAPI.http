@@ -1,0 +1,6 @@
+@InterAPI_HostAddress = http://localhost:5227
+
+GET {{InterAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
